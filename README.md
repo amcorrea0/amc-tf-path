@@ -2,7 +2,7 @@
 
 ## PROPÓSITO: Por qué existe éste proyecto?
 
-Como apasionado de TI, decidí embarcarme en el proceso de aprender ágilmente acerca de la tecnología ***Terraform*** y compartir mi aprendizaje en temas de *IaC* y *Observabilidad*. Seguro compartiré otros temas relacionados en éste proyecto, pero el principal propósito es desarrollar a profundidad mis habilidades en IaC + Observabilidad para los 3 hyperscalers principales (AWS, GCP y Azure).
+Como apasionado de TI, decidí embarcarme en el proceso de aprender ágilmente acerca de la tecnología ***Terraform*** y compartir mi aprendizaje en temas de *IaC* y *Observabilidad*. Seguro compartiré otros temas relacionados con éste proyecto, pero el principal propósito es desarrollar a profundidad mis habilidades en IaC + Observabilidad para los 3 hyperscalers principales (AWS, GCP y Azure).
 
 Deseo poner a prueba la integración de la multinube (hybrid cloud), automatizando el aprovisionamiento de la infra y servicios asociados, siempre asegurando cumplir con estándares mínimos de observabilidad, y todo a través de código... sí... el principal objetivo de éste proceso es desarrollar mi capacidad de ver el mundo como código ***"Everything as Code"***... en lo posible de manera agnóstica de fabrincantes, y al tiempo que desarrollo éstas capacidades, compartirlas a compañeros, amigos y todo aquel que encuentre valor en éstos assets que desarrollaré en el proceso.
 
@@ -26,7 +26,7 @@ En lo personal, soy apasionado por la mejora continua y en éste mundo de TI... 
 
 Creo que lo que acabo de mencionar acerca de mi, encaja perfectamente con lo que promueven los marcos ágiles, así que sí, creo que son de gran valor, aunque no para todo, para todos y mucho menos para ponerle la etiqueta de moda a tu nuevo cargo ;-). Si te interesa compartir más acerca de éste tema, te invito a conversar en redes, aquí continuaremos con el código y cómo usarlo :D
 
-Volviendo al tema... después del propósito... yo sigo un plan (no detalladao, hablemos como de un roadmap a gran escala), detallo mis hitos principales y los envío a mi Kanban Board (no detallaré eso), pero inicio mi trabajo, itero, pruebo, corrijo, mejoro y me adapto... porque tal vez ese roadmap deba transformarse en el camino. Lo que es claro, es lo que quiero lograr con éste proyecto, así que ajustaré las velas de manera continua.
+Volviendo al tema... después del propósito... yo sigo un plan (no detalladao, hablemos como de un roadmap a gran escala), detallo mis hitos principales y los envío a mi Kanban Board (no detallaré eso), pero inicio mi trabajo, itero, pruebo, corrijo, mejoro y me adapto... porque tal vez ese roadmap deba transformarse en el camino. Lo que es claro, es lo que quiero lograr con éste proyecto?, así que ajustaré las velas de manera continua.
 
 Si apenas te inicias en éste camino, podemos tocar algunas generalidades a continuación.
 
@@ -47,3 +47,5 @@ Así, avanzando con tu plan, podrás tomar de aquí, mi experiencia instalando y
 ### Vamos a instalar :D
 
 Vamos al archivo INSTALL allí te comparto mi proceso (multicloud)
+
+**DISCLAIMER (Descargo de Responsabilidad): LA RESPONSABILIDAD DE LA SEGURIDAD DE LA CUENTA DE HYPERSCALER, DE LOS DATOS QUE TRANSFIERES A LA NUBE, DEL COSTO DE CONSUMO Y DEL USO DEL CÓDIGO COMPARTIDO COMO BASE PARA CONSTRUIR ES SOLO TUYA. YO HARÉ MI MEJOR ESFUERZO POR MANTENERTE ALERTA CON LO QUE SÉ Y VOY APRENDIENDO EN EL PROCESO PARA EVITAR DAÑOS, PERO DEBES SER CONSCIENTE DE LO QUE HACES EN CADA PASO Y DE VALIDAR SI LOS RECURSOS QUE APROVISIONAS TENDRÁN UN IMPACTO EN TU BOLSILLO O DATOS. ESTE REPOSITORIO CONTIENE CÓDITO DE LABORATORIOS DE APRENDIZAJE, NO SE RECOMIENDA SU USO LITERAL EN PRODUCCIÓN, COMPRENDE Y AJUSTA SEGÚN SEA REQUERIDO**
