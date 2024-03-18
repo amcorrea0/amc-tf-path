@@ -13,7 +13,7 @@ A continuación comparto de manera simple los pasos a seguir para dar inicio al 
 
 http://portal.aws.amazon.com
 
-<img src="src/img/AWS-create-account.png" width="128"/>
+<img src="src/img/AWS-create-account.png"/>
 
 ## Activar MTF (multiple factor de autenticación)
 
