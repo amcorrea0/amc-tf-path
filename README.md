@@ -16,7 +16,7 @@ Es claro que me encanta compartir, pero también busco retroalimentación consta
 
 Y si estás dispuesto a compartir algo de dinero en representación de la utilidad que encuentres en éste repositorio, puedes hacerlo a través del botón ***"donate"*** de Paypal a continuación:
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCJQ65U4PHTAQ)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=BCJQ65U4PHTAQ&no_recurring=0&item_name=Gracias+por+apoyar+la+documentaci%C3%B3n+y+c%C3%B3digo+terraform%2C+opentofu+and+more+del+repositorio+amc-tf-path.&currency_code=USD)
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="BCJQ65U4PHTAQ" />
