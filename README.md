@@ -30,17 +30,18 @@ En lo personal, soy apasionado por la mejora continua y en éste mundo de TI... 
 
 Creo que lo que acabo de mencionar acerca de mi, encaja perfectamente con lo que promueven los marcos ágiles, así que sí, creo que son de gran valor, aunque no para todo, para todos y mucho menos para ponerle la etiqueta de moda a tu nuevo cargo ;-). Si te interesa compartir más acerca de éste tema, te invito a conversar en redes, me puedes encontrar como ***@andrescorrea*** en <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width=18 height=18> <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>, aquí continuaremos con el código y cómo usarlo :D
 
-Volviendo al tema... después del propósito... yo sigo un plan (no detalladao, hablemos como de un roadmap a gran escala), detallo mis hitos principales y los envío a mi Kanban Board (no detallaré eso), pero inicio mi trabajo, itero, pruebo, corrijo, mejoro y me adapto... porque tal vez ese roadmap deba transformarse en el camino. Lo que es claro, es lo que quiero lograr con éste proyecto, así que ajustaré las velas de manera continua.
-
-Si apenas te inicias en éste camino, podemos tocar algunas generalidades a continuación.
-
-Así, avanzando con tu plan, podrás tomar de aquí, mi experiencia instalando y configurando mis ambientes, te lo pongo en bandeja de plata ;-)... todo masticado para que no estés por 100 URLs y videos buscando cómo hacerlo simple, para después avanzar. Y por qué no un video tutorial?... ummhhhh... tal vez sea un ajuste posterior en próximas etapas
+Volviendo al tema... después del propósito... yo sigo un plan (no detallado, hablemos como de un roadmap a gran escala), detallo mis hitos principales y los envío a mi Kanban Board (no detallaré eso), pero inicio mi trabajo, itero, pruebo, corrijo, mejoro y me adapto... porque tal vez ese roadmap deba transformarse en el camino. Lo que es claro, es lo que quiero lograr con éste proyecto, así que ajustaré las velas de manera continua.
 
 Te comparto mi diseño de experiencia de aprendizaje, si te es útil, puedes ir al siguiente enlace para aprender acerca de éste modelo:
 
 [LXD - Learning Experience Design](https://lxd.org)
 
 <img alt="LXD - Everything as Code - Andrés M. Correa" src="src/img/Co-Creación/Learning_Experience_Canvas_v1.0.png">
+
+Así, avanzando con tu plan, podrás tomar de aquí, mi experiencia instalando y configurando mis ambientes, te lo pongo en bandeja de plata ;-)... todo masticado para que no estés por 100 URLs y videos buscando cómo hacerlo simple, para después avanzar. Y por qué no un video tutorial?... ummhhhh... tal vez sea un ajuste posterior en próximas etapas
+
+Si apenas te inicias en éste camino, podemos tocar algunas generalidades a continuación.
+
 
 ### Qué es Cloud?
 
