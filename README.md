@@ -14,6 +14,19 @@ Es claro que me encanta compartir, pero también busco retroalimentación consta
 
 ...ahhh no olvides, que en las primeras semanas estaré en modo aprendizaje, soluciones básicas, nada del otro mundo, estaré explorando, después iremos sumando.
 
+Y si estás dispuesto a compartir algo de dinero en representación de la utilidad que encuentres en éste repositorio, puedes hacerlo a través del botón ***"donate"*** de Paypal a continuación:
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="business" value="BCJQ65U4PHTAQ" />
+<input type="hidden" name="no_recurring" value="0" />
+<input type="hidden" name="item_name" value="Gracias por apoyar la documentación y código terraform, opentofu and more del repositorio amc-tf-path." />
+<input type="hidden" name="currency_code" value="USD" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_CO/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
+
 ## CÓMO EMPIEZO?
 
 Como yo ;-), con un propósito claro!
