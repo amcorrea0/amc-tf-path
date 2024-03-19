@@ -16,6 +16,8 @@ Es claro que me encanta compartir, pero también busco retroalimentación consta
 
 Y si estás dispuesto a compartir algo de dinero en representación de la utilidad que encuentres en éste repositorio, puedes hacerlo a través del botón ***"donate"*** de Paypal a continuación:
 
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCJQ65U4PHTAQ)
+
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="BCJQ65U4PHTAQ" />
 <input type="hidden" name="no_recurring" value="0" />
