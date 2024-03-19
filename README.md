@@ -18,8 +18,6 @@ Y si estás dispuesto a compartir algo de dinero en representación de la utilid
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=BCJQ65U4PHTAQ&no_recurring=0&item_name=Gracias+por+apoyar+la+documentaci%C3%B3n+y+c%C3%B3digo+terraform%2C+opentofu+and+more+del+repositorio+amc-tf-path.&currency_code=USD)
 
-<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="donate" width="300" height="auto">
-
 ## CÓMO EMPIEZO?
 
 Como yo ;-), con un propósito claro!
