@@ -21,7 +21,15 @@ http://portal.aws.amazon.com
 
 ## Crear usuario de automatización
 
+[AWS - IAM](https://docs.aws.amazon.com/es_es/IAM/latest/UserGuide/id_users_create.html) 
+
 ## Mantener pestaña de navegador abierta para validar servicios de capa gratuita
+
+[AWS] [AWS - Free Tier](https://aws.amazon.com/es/free/)
+
+[Microsoft] [Azure - Free Tier](https://azure.microsoft.com/en-us/pricing/free-services)
+
+[Google] [GCP - Free Tier]([https://azure.microsoft.com/en-us/pricing/free-services](https://cloud.google.com/free?hl=es_419))
 
 ## Abrir consola web para validar cambios
 
