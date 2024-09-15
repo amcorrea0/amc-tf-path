@@ -29,7 +29,7 @@ http://portal.aws.amazon.com
 
 [Microsoft] [Azure - Free Tier](https://azure.microsoft.com/en-us/pricing/free-services)
 
-[Google] [GCP - Free Tier]([https://azure.microsoft.com/en-us/pricing/free-services](https://cloud.google.com/free?hl=es_419))
+[Google] [GCP - Free Tier]([https://azure.microsoft.com/en-us/pricing/free-services](https://cloud.google.com/free?hl=es_419)
 
 ## Abrir consola web para validar cambios
 
