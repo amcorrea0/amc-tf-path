@@ -17,6 +17,10 @@ http://portal.aws.amazon.com
 
 ## Activar MTF (multiple factor de autenticación)
 
+[Procedimiento simple con imágenes paso a paso](https://rubenjgarcia.cloud/crear-cuenta-aws-gratis/), gracias a ***Ruben J. García*** por compartirlo en su blog, en la sección MFA.
+
+[Procedimiento Oficial AWS](https://docs.aws.amazon.com/es_es/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html#enable-virt-mfa-for-iam-user)
+
 ## Crear reporte de costos con alertamiento por debajo del umbral
 
 ## Crear usuario de automatización
