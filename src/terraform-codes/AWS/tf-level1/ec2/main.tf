@@ -13,9 +13,10 @@ locals {
 }
 
 resource "aws_instance" "ec2-tf_level1" {
-  ami = "ami-0ebfd941bbafe70c6"
+  ami = var.ami_level1
 
-  instance_type = "t2.micro"
+  #instance_type = "t2.micro"
+  instance_type = var.instance_type_level1
 
   subnet_id                   = "subnet-0b7c45b94702fd324"
   vpc_security_group_ids      = ["sg-0cb92cccf7157c7a0"]
@@ -25,9 +26,9 @@ resource "aws_instance" "ec2-tf_level1" {
 
   connection {
     type        = "ssh"
-    user        = "ec2-user" 
+    user        = "ec2-user"
     private_key = file("../../keys/ubuntu_user_key.pem")
-    host = self.public_ip
+    host        = self.public_ip
   }
 
   timeouts {
@@ -44,7 +45,7 @@ resource "aws_instance" "ec2-tf_level1" {
       "sudo yum install -y nginx",
       "sudo systemctl enable nginx",
       "sudo yum install -y ansible",
-      "sudo yum install amazon-coundwatch-agent", 
+      "sudo yum install amazon-coundwatch-agent",
     ]
   }
   tags = local.commmon_tags
