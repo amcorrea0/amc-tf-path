@@ -45,7 +45,7 @@ resource "aws_instance" "ec2-tf_level1" {
       "sudo yum install -y nginx",
       "sudo systemctl enable nginx",
       "sudo yum install -y ansible",
-      "sudo yum install amazon-coundwatch-agent",
+      "sudo yum install amazon-cloudwatch-agent",
     ]
   }
   tags = local.commmon_tags

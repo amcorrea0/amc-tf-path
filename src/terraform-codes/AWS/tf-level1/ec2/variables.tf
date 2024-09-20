@@ -3,7 +3,7 @@ variable "tf_level1_region" {
   default = "us-east-1"
 }
 
-variable "ami_level1" {
+variable "ami_tf_level1" {
   type    = string
   default = "ami-0ebfd941bbafe70c6"
   
@@ -20,6 +20,6 @@ variable "instance_type_level1" {
 
   validation {
     condition     = contains(["t2.micro", "t3.micro"], var.instance_type_level1)
-    error_message = "The instance type must be t2.micro or t3.micro."
+    error_message = "The instance type must be t2.micro or t3.micro. (Free Tier)"
   }
 }
