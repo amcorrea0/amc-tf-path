@@ -13,7 +13,7 @@ locals {
 }
 
 resource "aws_instance" "ec2-tf_level1" {
-  ami = var.ami_level1
+  ami = var.ami_tf_level1
 
   #instance_type = "t2.micro"
   instance_type = var.instance_type_level1
