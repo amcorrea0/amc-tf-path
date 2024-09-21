@@ -5,10 +5,28 @@ provider "aws" {
 }
 
 resource "aws_vpc" "tf_level15_vpc" {
-  cidr_block = "10.5.0.0/16"
+  cidr_block           = "10.5.0.0/16"
+  enable_dns_hostnames = true
 
   tags = local.common_tags
 }
+
+# added for tfsec recommendation
+# vpc/main.tf:7-11
+#     resource "aws_vpc" "tf_level15_vpc" {
+#       cidr_block = "10.5.0.0/16"
+#        
+#         tags = local.common_tags
+#     }
+
+# Aún no sé como hacerlo con seguridad, con el ARN?
+#resource "aws_flow_log" "tf_level15_vpc_flow_log" {
+#  iam_role_arn    = "arn:aws:iam::aws:policy/aws-service-role/AWSSupportServiceRolePolicy"
+#  log_destination = "arn:aws:logs:us-east-1:381491998455:log-group:test_aws_flow_log:*"
+#  traffic_type    = "ALL"
+#  vpc_id          = aws_vpc.tf_level15_vpc.id
+#}
+
 
 locals {
   common_tags = {
