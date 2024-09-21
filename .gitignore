@@ -20,6 +20,10 @@ crash.*.log
 # to change depending on the environment.
 *.tfvars
 *.tfvars.json
+**/key*/*
+**/keys/*
+*.pem
+*/*.pem
 
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
@@ -45,4 +49,4 @@ terraform.rc
 *.terraform.lock.hcl
 
 # Ignore .infracost files
-*/.infracost/
+**/.infracost/*
